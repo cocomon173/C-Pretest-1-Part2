@@ -11,3 +11,4 @@ Free C++ test made by cocomon173
 Is there a error in question or answer, tell me on issue.
 
 이 제작자에게 모든 저작권이 있음을 알립니다.
+Note that the copyright of these questions owned by cocomon173(Don't Copy It)
